@@ -1,5 +1,5 @@
 # Ukraine_war_news_topicmodeling
-우크라이나 전쟁 관련 기사 분석을 위한 LDA topic modeling
+우크라이나 전쟁 관련 기사 분석을 위한 LDA topic modeling  
 **유튜브 문송랩-https://www.youtube.com/channel/UCbIPcqbzii5xEnTv_6XGzCA**   
 다타데이터 강의자료
 
